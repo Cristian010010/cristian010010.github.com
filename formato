@@ -1,10 +1,5 @@
 
-div
-{
-	align="center"
-	style="background-color: #DCD0FF;"
-}
-
+div {align:center;}
 h2
 {
 	style="color:purple"
