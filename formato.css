@@ -1,13 +1,23 @@
 
-h1 {color:red;}
+h1 {
+	color:red;
+	text-align:center;
+}
 #f1 {color:blue;}
-.f2 {color:green;}
+.f2 {
+	color:green;
+	text-align:center
+}
 #f3 {color:yellow;}
 b {color:purple;}
 .f4 {color:orange;}
 #f5 {color:gray;}
 #fondo {background-color: #F5F5DC;}
 .cambio {color:purple;}
-
+#rojo{color:red;}
+.verde {
+	color:green;
+	text-align:center;
+}
 
 	
