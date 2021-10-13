@@ -133,7 +133,7 @@
   .fh5co-top-banner::after {
     content: '';
     position: absolute;
-    top: 0;
+    top: 30;
     left: 0;
     width: 100%;
     height: 100%;
@@ -210,7 +210,7 @@
         width: 50%; }
         .top-banner__inner .top-banner__image img {
           width: 100%; } }
-    @media (max-width: 520px) {
+    @media (max-width: 550px) {
       .top-banner__inner .top-banner__image {
         width: 65%;
         margin-bottom: 20px; } }
@@ -298,7 +298,7 @@
   cursor: pointer;
   color: #c18f59;
   border: 1px solid #c18f59;
-  border-radius: 50%;
+  border-radius: 58%;
   transition: 0.3s ease; }
   .span-arrow:hover {
     color: #fff;
@@ -334,8 +334,8 @@
       font-family: "Calisto-MT-Bold"; }
       @media (max-width: 992px) {
         .portfolio-wrapper .portfolio__name span {
-          font-size: 65px;
-          line-height: 62px; } }
+          font-size: 80px;
+          line-height: 70px; } }
   .portfolio-wrapper p {
     padding: 0 10%;
     line-height: 25px;
@@ -343,7 +343,7 @@
     color: #777; }
     @media (max-width: 620px) {
       .portfolio-wrapper p {
-        font-size: 15px;
+        font-size: 25px;
         line-height: 20px; } }
   @media (max-width: 992px) {
     .portfolio-wrapper {
@@ -362,7 +362,7 @@
     margin-bottom: 25px; }
   .about-me__text p {
     margin-bottom: 35px;
-    line-height: 24px;
+    line-height: 18px;
     color: #c18f59; }
     .about-me__text p span {
       font-size: 48px;
@@ -399,7 +399,7 @@
   .fh5co-books .books-brand-button {
     text-align: center; }
     .fh5co-books .books-brand-button .brand-button {
-      font-size: 16px;
+      font-size: 45px;
       text-transform: none;
       border-color: #c18f59; }
       .fh5co-books .books-brand-button .brand-button:hover {
