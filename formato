@@ -4,3 +4,8 @@ div
 	align="center"
 	style="background-color: #DCD0FF;"
 }
+
+h2
+{
+	style="color:purple"
+}
